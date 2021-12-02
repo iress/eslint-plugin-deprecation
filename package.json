@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-deprecation",
+  "name": "@iress/eslint-plugin-deprecation",
   "version": "1.3.0",
   "description": "ESLint rule that reports usage of deprecated code",
   "author": "Alex Malkevich <malkevich.alex@gmail.com>",
