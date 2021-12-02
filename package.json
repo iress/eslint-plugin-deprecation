@@ -12,7 +12,7 @@
   "license": "LGPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "https://github.com/delagen/eslint-plugin-deprecation.git"
+    "url": "https://github.com/gund/eslint-plugin-deprecation.git"
   },
   "main": "dist/index.js",
   "files": [
